@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // alerta de boas-vindas 
     setTimeout(function() {
-        alert("🌱 Olá! Essa é a estrutura do concurso #Agrinho.\nTroque as imagens e textos pelos seus projetos!");
+        alert("🌱 Olá! Essa é a estrutura do concurso #Agrinho.");
     }, 500);
 
     // selecionando todos os cards (blocos de informação)
